@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JumbleWords</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="weekly">This weeks puzzle</string>
+    <string name="test">testring</string>
+    <string name="clear">CLEAR</string>
+</resources>
